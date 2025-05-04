@@ -14,7 +14,7 @@ Key aims:
 
 ## Additional styling
 
-To get the full experience™, I recommend setting your workspace font to something like Courier Prime by adding the following line to your `settings.json`:
+To get the full experience™, I recommend setting your workspace font to something like [Courier Prime](https://fonts.google.com/specimen/Courier+Prime) by adding the following line to your `settings.json`:
 
 ```json
 {

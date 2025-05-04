@@ -4,6 +4,10 @@ All notable changes to the "Kimbie Fountain" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.15]
+
+- Readme
+
 ## [1.0.14]
 
 - Color updates
@@ -36,7 +40,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Color updates
 
-## [1.0.6]
+## [1.0.6] - [1.0.14]
 
 - Readme update
 

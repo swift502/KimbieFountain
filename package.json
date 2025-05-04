@@ -5,7 +5,7 @@
   "publisher": "jan-blaha",
   "repository": "https://github.com/swift502/KimbieFountain",
   "icon": "images/icon.png",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "engines": {
     "vscode": "^1.99.0"
   },
