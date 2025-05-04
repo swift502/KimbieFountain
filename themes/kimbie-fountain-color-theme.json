@@ -386,7 +386,7 @@
 			"name": "Escape Characters",
 			"scope": "constant.character.escape", // Fountain Dual dialogue
 			"settings": {
-				"foreground": "#ffae52"
+				"foreground": "#c39090"
 			}
 		},
 		{
