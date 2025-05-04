@@ -133,7 +133,7 @@
 			"name": "Variables",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#c39090"
+				"foreground": "#c39090" // Fountain parenthetical extensions
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"name": "Integers",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#94ae37" // Fountain Transitions
+				"foreground": "#a0ae37" // Fountain Transitions
 			}
 		},
 		{
@@ -427,12 +427,13 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#ffae52", // Parentheticals
+				"foreground": "#a0ae37", // Double dialogue
 			}
 		},
 		{
 			"scope": "string constant.character.escape",
 			"settings": {
+				"foreground": "#a0ae37", // Parentheticals
 				"fontStyle": "italic"
 			}
 		},

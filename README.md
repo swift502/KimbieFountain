@@ -2,7 +2,7 @@
 
 ![](https://github.com/swift502/KimbieFountain/raw/HEAD/images/preview.png)
 
-A modification of Kimbie Dark theme to make it work better with the [Better Fountain](https://marketplace.visualstudio.com/items?itemName=piersdeseilligny.betterfountain) extension.
+A modification of the Kimbie Dark theme to make it work better with the [Better Fountain](https://marketplace.visualstudio.com/items?itemName=piersdeseilligny.betterfountain) extension.
 
 Only intended for use with `.fountain` files. Any other file type is not guaranteed to be readable.
 
@@ -23,7 +23,6 @@ Opionally, I recommend setting your workspace font to something like Courier Pri
 
 Dev notes:
   - `npm install -g vsce`
-  - `vsce package`
   - `vsce publish`
 Extension admin: https://marketplace.visualstudio.com/manage/
 Tokens: https://swift502.visualstudio.com/_usersSettings/tokens
