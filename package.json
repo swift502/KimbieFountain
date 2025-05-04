@@ -2,6 +2,7 @@
   "name": "kimbie-fountain-theme",
   "displayName": "Kimbie Fountain",
   "description": "Kimbie Dark with syntax highlighting adjustments for the Better Fountain extension.",
+  "publisher": "jan-blaha",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.99.0"
