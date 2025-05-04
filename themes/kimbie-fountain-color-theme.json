@@ -5,7 +5,7 @@
 		"input.background": "#51412c",
 		"dropdown.background": "#51412c",
 		"editor.background": "#221a0f",
-		"editor.foreground": "#d3af86",
+		"editor.foreground": "#f1d8bd", // Fountain Action
 		"focusBorder": "#a57a4c",
 		"list.highlightForeground": "#e3b583",
 		"list.activeSelectionBackground": "#7c5021",
@@ -133,7 +133,7 @@
 			"name": "Variables",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#c39090" // Fountain parenthetical extensions
+				"foreground": "#c39090" // Fountain Specifiers
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"name": "Integers",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#a0ae37" // Fountain Transitions
+				"foreground": "#b57f3c" // Fountain Transitions
 			}
 		},
 		{
@@ -287,7 +287,6 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f06431"
 			}
 		},
 		{
@@ -298,7 +297,6 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#98676a"
 			}
 		},
 		{
@@ -386,9 +384,9 @@
 		},
 		{
 			"name": "Escape Characters",
-			"scope": "constant.character.escape",
+			"scope": "constant.character.escape", // Fountain Dual dialogue
 			"settings": {
-				"foreground": "#7e602c"
+				"foreground": "#ffae52"
 			}
 		},
 		{
@@ -412,12 +410,6 @@
 		// Fountain Overrides
 		//
 		{
-			"scope": "meta.paragraph.text",
-			"settings": {
-				"foreground": "#f1d8bd" // Action
-			}
-		},
-		{
 			"scope": "keyword.other.class",
 			"settings": {
 				"foreground": "#ffae52", // Scene headings
@@ -425,15 +417,9 @@
 			}
 		},
 		{
-			"scope": "constant.character.escape",
-			"settings": {
-				"foreground": "#a0ae37", // Double dialogue
-			}
-		},
-		{
 			"scope": "string constant.character.escape",
 			"settings": {
-				"foreground": "#a0ae37", // Parentheticals
+				"foreground": "#c2a589", // Parentheticals
 				"fontStyle": "italic"
 			}
 		},
@@ -444,23 +430,8 @@
 			}
 		},
 		{
-			"scope": "markup.bold",
-			"settings": {
-				"foreground": "#cac1b8",
-				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope": "markup.italic",
-			"settings": {
-				"foreground": "#e7dfd3",
-				"fontStyle": "italic"
-			}
-		},
-		{
 			"scope": "markup.underline",
 			"settings": {
-				"foreground": "#e7dfd3",
 				"fontStyle": "underline"
 			}
 		},
@@ -487,13 +458,7 @@
 			"settings": {
 				"fontStyle": "italic bold underline"
 			}
-		},
-		{
-			"scope": "entity.name.type",
-			"settings": {
-				"fontStyle": ""
-			}
-		},
+		}
 	],
 	"semanticHighlighting": true
 }
