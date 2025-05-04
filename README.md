@@ -1,6 +1,6 @@
 # Kimbie Fountain Theme
 
-![](images/preview.png)
+![](https://github.com/swift502/KimbieFountain/raw/HEAD/images/preview.png)
 
 A modification of Kimbie Dark theme to make it work better with the [Better Fountain](https://marketplace.visualstudio.com/items?itemName=piersdeseilligny.betterfountain) extension.
 
