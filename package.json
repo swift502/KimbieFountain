@@ -20,5 +20,8 @@
         "path": "./themes/Kimbie-Fountain-color-theme.json"
       }
     ]
-  }
+  },
+  "extensionDependencies": [
+    "piersdeseilligny.betterfountain"
+  ]
 }
