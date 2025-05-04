@@ -1,11 +1,11 @@
 {
   "name": "kimbie-fountain-theme",
   "displayName": "Kimbie Fountain",
-  "description": "Kimbie Dark with syntax highlighting adjustments for the Better Fountain extension.",
+  "description": "Kimbie Dark theme with syntax highlighting adjustments for the Better Fountain extension.",
   "publisher": "jan-blaha",
   "repository": "https://github.com/swift502/KimbieFountain",
   "icon": "images/icon.png",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.99.0"
   },

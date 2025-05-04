@@ -12,12 +12,20 @@ Key aims:
 - put emphasis on action and dialogue, while keeping them visually distinct
 - de-emphasize other elements like parentheticals and transitions
 
-## Additional Styling
+## Additional styling
 
-Opionally, I recommend setting your workspace font to something like Courier Prime. You can do that by searching for "font" in the settings menu, or by adding the following line to your settings.json:
+Optionally, I recommend setting your workspace font to something like Courier Prime by searching for "font" in the settings menu, or by adding the following line to your settings.json:
 
 ```json
 "editor.fontFamily": "Courier Prime, Courier, monospace"
+```
+
+## Workspace scoping
+
+You can set the theme to only apply to fountain workspaces by adding the following line their settings.json:
+
+```json
+"workbench.colorTheme": "Kimbie Fountain"
 ```
 
 <!--
