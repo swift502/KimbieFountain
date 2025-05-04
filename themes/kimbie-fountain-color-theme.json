@@ -419,8 +419,7 @@
 		{
 			"scope": "string constant.character.escape",
 			"settings": {
-				"foreground": "#c2a589", // Parentheticals
-				"fontStyle": "italic"
+				"foreground": "#c2a589" // Parentheticals
 			}
 		},
 		{
