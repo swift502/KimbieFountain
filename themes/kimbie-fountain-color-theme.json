@@ -5,7 +5,7 @@
 		"input.background": "#51412c",
 		"dropdown.background": "#51412c",
 		"editor.background": "#221a0f",
-		"editor.foreground": "#e8cfb5", // Fountain Action
+		"editor.foreground": "#eed5ba", // Fountain Action
 		"focusBorder": "#a57a4c",
 		"list.highlightForeground": "#e3b583",
 		"list.activeSelectionBackground": "#7c5021",
@@ -197,7 +197,7 @@
 			"name": "Integers",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#b47c28" // Fountain Transitions
+				"foreground": "#bd820c" // Fountain Transitions
 			}
 		},
 		{
@@ -412,7 +412,7 @@
 		{
 			"scope": "keyword.other.class",
 			"settings": {
-				"foreground": "#f0a652", // Scene headings
+				"foreground": "#ffae52", // Scene headings
 				"fontStyle": "underline"
 			}
 		},
