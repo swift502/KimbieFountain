@@ -14,7 +14,7 @@ Key aims:
 
 ## Additional styling
 
-Optionally, I recommend setting your workspace font to something like Courier Prime by searching for "font" in the settings menu, or by adding the following line to your settings.json:
+To get the full experience™, I recommend setting your workspace font to something like Courier Prime by adding the following line to your settings.json:
 
 ```json
 "editor.fontFamily": "Courier Prime, Courier, monospace"
@@ -22,7 +22,7 @@ Optionally, I recommend setting your workspace font to something like Courier Pr
 
 ## Workspace scoping
 
-You can set the theme to only apply to fountain workspaces by adding the following line their settings.json:
+If you wish to limit the effect of this theme to a specific workspace, you can do so by setting an override in the settings.json:
 
 ```json
 "workbench.colorTheme": "Kimbie Fountain"
