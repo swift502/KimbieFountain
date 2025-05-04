@@ -17,7 +17,7 @@ Key aims:
 To get the full experience™, I recommend setting your workspace font to something like Courier Prime by adding the following line to your settings.json:
 
 ```json
-"editor.fontFamily": "Courier Prime, Courier, monospace"
+"editor.fontFamily": "Courier Prime"
 ```
 
 ## Workspace scoping
