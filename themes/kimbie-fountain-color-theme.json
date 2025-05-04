@@ -197,7 +197,7 @@
 			"name": "Integers",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#a9a95f" // Fountain Transitions
+				"foreground": "#b1876f" // Fountain Transitions
 			}
 		},
 		{
