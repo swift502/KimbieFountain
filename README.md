@@ -9,7 +9,8 @@ Only intended for use with `.fountain` files. Any other file type is not guarant
 Key aims:
 
 - use readable brightness and contrast
-- visually separate action and dialogue
+- put emphasis on action and dialogue, while making them visually distinct
+- de-emphasize other elements like scene parentheticals and transitions
 
 ## Additional Styling
 
