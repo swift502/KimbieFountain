@@ -157,7 +157,7 @@
 				"entity.name.scope-resolution"
 			],
 			"settings": {
-				"foreground": "#d39090" // Fountain Characters
+				"foreground": "#cb8b8b" // Fountain Characters
 			}
 		},
 		{
@@ -190,7 +190,7 @@
 				"punctuation.separator.namespace.ruby"
 			],
 			"settings": {
-				"foreground": "#b7cdcd" // Fountain Dialogue
+				"foreground": "#bccfcf" // Fountain Dialogue
 			}
 		},
 		{
