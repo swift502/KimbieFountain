@@ -4,6 +4,7 @@
   "description": "Kimbie Dark with syntax highlighting adjustments for the Better Fountain extension.",
   "publisher": "jan-blaha",
   "repository": "https://github.com/swift502/KimbieFountain",
+  "icon": "images/icon.png",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.99.0"
