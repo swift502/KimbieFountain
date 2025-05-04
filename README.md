@@ -21,7 +21,10 @@ Opionally, I recommend setting your workspace font to something like Courier Pri
 
 <!--
 
-Publish command: vsce publish
+Dev notes:
+  - `npm install -g vsce`
+  - `vsce package`
+  - `vsce publish`
 Extension admin: https://marketplace.visualstudio.com/manage/
 Tokens: https://swift502.visualstudio.com/_usersSettings/tokens
 
