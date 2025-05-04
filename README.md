@@ -4,7 +4,7 @@
 
 A modification of Kimbie Dark theme to make it work better with the [Better Fountain](https://marketplace.visualstudio.com/items?itemName=piersdeseilligny.betterfountain) extension.
 
-Only intended for use with .fountain files. Any other file type is not guaranteed to be readable.
+Only intended for use with `.fountain` files. Any other file type is not guaranteed to be readable.
 
 Key aims:
 
@@ -18,3 +18,11 @@ Opionally, I recommend setting your workspace font to something like Courier Pri
 ```json
 "editor.fontFamily": "Courier Prime, Courier, monospace"
 ```
+
+<!--
+
+Publish command: vsce publish
+Extension admin: https://marketplace.visualstudio.com/manage/
+Tokens: https://swift502.visualstudio.com/_usersSettings/tokens
+
+-->
