@@ -2,9 +2,19 @@
 
 ![](images/preview.png)
 
-A modification of Kimbie Dark theme to play nice with the [Better Fountain](https://marketplace.visualstudio.com/items?itemName=piersdeseilligny.betterfountain) extension.
+A modification of Kimbie Dark theme to make it work better with the [Better Fountain](https://marketplace.visualstudio.com/items?itemName=piersdeseilligny.betterfountain) extension.
+
+Only intended for use with .fountain files. Any other file type is not guaranteed to be readable.
 
 Key aims:
 
 - use readable brightness and contrast
 - visually separate action and dialogue
+
+## Additional Styling
+
+Opionally, I recommend setting your workspace font to something like Courier Prime. You can do that by searching for "font" in the settings menu, or by adding the following line to your settings.json:
+
+```json
+"editor.fontFamily": "Courier Prime, Courier, monospace"
+```
