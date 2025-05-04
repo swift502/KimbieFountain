@@ -14,18 +14,22 @@ Key aims:
 
 ## Additional styling
 
-To get the full experience™, I recommend setting your workspace font to something like Courier Prime by adding the following line to your settings.json:
+To get the full experience™, I recommend setting your workspace font to something like Courier Prime by adding the following line to your `settings.json`:
 
 ```json
-"editor.fontFamily": "Courier Prime"
+{
+  "editor.fontFamily": "Courier Prime"
+}
 ```
 
 ## Workspace scoping
 
-If you wish to limit the effect of this theme to a specific workspace, you can do so by setting an override in the settings.json:
+If you wish to limit the effect of this theme to a specific workspace, you can do so by setting an override in the `settings.json`:
 
 ```json
-"workbench.colorTheme": "Kimbie Fountain"
+{
+  "workbench.colorTheme": "Kimbie Fountain"
+}
 ```
 
 <!--
