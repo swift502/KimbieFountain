@@ -1,0 +1,21 @@
+{
+  "name": "kimbie-fountain-theme",
+  "displayName": "Kimbie Fountain",
+  "description": "Kimbie Dark with overrides, so it displays nicely with the Better Fountain extension.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kimbie Fountain",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kimbie-Fountain-color-theme.json"
+      }
+    ]
+  }
+}
