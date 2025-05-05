@@ -269,7 +269,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#8ab1b0"
+				"foreground": "#ffae52" // Fountain Sections
 			}
 		},
 		{
@@ -426,6 +426,12 @@
 			"scope": "keyword.other.title-page",
 			"settings": {
 				"foreground": "#c39090" // Properties
+			}
+		},
+		{
+			"scope": "entity.other.pagebreak",
+			"settings": {
+				"foreground": "#b1876f" // Page breaks
 			}
 		},
 		{

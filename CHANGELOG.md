@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.21
+
+- Add support for Page breaks and Sections
+
 ## 1.0.6 - 1.0.20
 
 - Color, style and documentation refinements
