@@ -35,7 +35,7 @@
 		"sideBar.background": "#362712",
 		"menu.background": "#362712",
 		"menu.foreground": "#CCCCCC",
-		"editor.lineHighlightBackground": "#3e2e1b", // Fountain Line Highlight
+		"editor.lineHighlightBackground": "#3e2e1b", // Fountain Line highlight
 		"editorCursor.foreground": "#d3af86",
 		"editorWhitespace.foreground": "#a57a4c",
 		"peekViewTitle.background": "#362712",
@@ -432,6 +432,12 @@
 			"scope": "entity.other.pagebreak",
 			"settings": {
 				"foreground": "#b1876f" // Page breaks
+			}
+		},
+		{
+			"scope": "constant.numeric.scene",
+			"settings": {
+				"foreground": "#bc8358" // Scene numbers
 			}
 		},
 		{

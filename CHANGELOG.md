@@ -1,8 +1,12 @@
 # Changelog
 
+## 1.0.22
+
+- Account for Scene numbers
+
 ## 1.0.21
 
-- Add support for Page breaks and Sections
+- Account for Page breaks and Sections
 
 ## 1.0.6 - 1.0.20
 
