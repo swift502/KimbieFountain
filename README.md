@@ -38,12 +38,12 @@ If you wish to limit the effect of this theme to a specific workspace, you can d
 <!--
 
 Setup:
-  - `npm install -g vsce`
-  - `vsce login jan-blaha
-  - `vsce publish`
+  - npm install -g vsce
+  - vsce login jan-blaha
+  - vsce publish
 
 Inspect textmate tokens:
-  - `F1` > `Developer: Inspect Editor Tokens and Scopes`
+  - F1 > Developer: Inspect Editor Tokens and Scopes
 
 Extension admin: https://marketplace.visualstudio.com/manage/
 Tokens: https://swift502.visualstudio.com/_usersSettings/tokens
