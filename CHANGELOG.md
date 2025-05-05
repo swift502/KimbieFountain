@@ -2,11 +2,11 @@
 
 ## 1.0.22
 
-- Account for Scene numbers
+- Add support for Scene numbers
 
 ## 1.0.21
 
-- Account for Page breaks and Sections
+- Add support for Page breaks and Sections
 
 ## 1.0.6 - 1.0.20
 
