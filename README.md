@@ -39,6 +39,7 @@ If you wish to limit the effect of this theme to a specific workspace, you can d
 
 Setup:
   - `npm install -g vsce`
+  - `vsce login jan-blaha
   - `vsce publish`
 
 Inspect textmate tokens:
