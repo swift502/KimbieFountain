@@ -1,6 +1,6 @@
-# Change Log
+# Changelog
 
-## 1.0.6 - 1.0.19
+## 1.0.6 - 1.0.20
 
 - Color, style and documentation refinements
 
