@@ -384,9 +384,9 @@
 		},
 		{
 			"name": "Escape Characters",
-			"scope": "constant.character.escape", // Fountain Dual dialogue
+			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#c39090"
+				"foreground": "#c39090" // Fountain Dual dialogue
 			}
 		},
 		{
@@ -423,9 +423,9 @@
 			}
 		},
 		{
-			"scope": "keyword.other.title-page", // Properties
+			"scope": "keyword.other.title-page",
 			"settings": {
-				"foreground": "#c39090"
+				"foreground": "#c39090" // Properties
 			}
 		},
 		{
