@@ -412,7 +412,7 @@
 		{
 			"scope": "keyword.other.class",
 			"settings": {
-				"foreground": "#ffae52", // Scene headings
+				"foreground": "#f4a752", // Scene headings
 				"fontStyle": "underline"
 			}
 		},

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.23
+
+- Color tweaks
+
 ## 1.0.22
 
 - Add support for Scene numbers
