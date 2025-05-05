@@ -5,7 +5,7 @@
 		"input.background": "#51412c",
 		"dropdown.background": "#51412c",
 		"editor.background": "#221a0f",
-		"editor.foreground": "#eed5ba", // Fountain Action
+		"editor.foreground": "#ddc6ad", // Fountain Action
 		"focusBorder": "#a57a4c",
 		"list.highlightForeground": "#e3b583",
 		"list.activeSelectionBackground": "#7c5021",
@@ -35,7 +35,7 @@
 		"sideBar.background": "#362712",
 		"menu.background": "#362712",
 		"menu.foreground": "#CCCCCC",
-		"editor.lineHighlightBackground": "#3e2e1b", // Fountain Line highlight
+		"editor.lineHighlightBackground": "#3a2b19", // Fountain Line highlight
 		"editorCursor.foreground": "#d3af86",
 		"editorWhitespace.foreground": "#a57a4c",
 		"peekViewTitle.background": "#362712",
@@ -83,7 +83,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#bc8358" // Fountain Comments
+				"foreground": "#b17b53" // Fountain Comments
 			}
 		},
 		{
@@ -133,7 +133,7 @@
 			"name": "Variables",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#c39090" // Fountain Specifiers
+				"foreground": "#b78787" // Fountain Specifiers
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 				"entity.name.scope-resolution"
 			],
 			"settings": {
-				"foreground": "#cb8b8b" // Fountain Characters
+				"foreground": "#bf8383" // Fountain Characters
 			}
 		},
 		{
@@ -190,14 +190,14 @@
 				"punctuation.separator.namespace.ruby"
 			],
 			"settings": {
-				"foreground": "#bccfcf" // Fountain Dialogue
+				"foreground": "#afc1c1" // Fountain Dialogue
 			}
 		},
 		{
 			"name": "Integers",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#b1876f" // Fountain Transitions
+				"foreground": "#a67f68" // Fountain Transitions
 			}
 		},
 		{
@@ -269,7 +269,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#ffae52" // Fountain Sections
+				"foreground": "#f0a44d" // Fountain Sections
 			}
 		},
 		{
@@ -386,7 +386,7 @@
 			"name": "Escape Characters",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#c39090" // Fountain Dual dialogue
+				"foreground": "#b78787" // Fountain Dual dialogue
 			}
 		},
 		{
@@ -412,32 +412,32 @@
 		{
 			"scope": "keyword.other.class",
 			"settings": {
-				"foreground": "#f4a752", // Scene headings
+				"foreground": "#e39b4c", // Scene headings
 				"fontStyle": "underline"
 			}
 		},
 		{
 			"scope": "string constant.character.escape",
 			"settings": {
-				"foreground": "#bd7c7c" // Parentheticals
+				"foreground": "#b27575" // Parentheticals
 			}
 		},
 		{
 			"scope": "keyword.other.title-page",
 			"settings": {
-				"foreground": "#c39090" // Properties
+				"foreground": "#b78787" // Properties
 			}
 		},
 		{
 			"scope": "entity.other.pagebreak",
 			"settings": {
-				"foreground": "#b1876f" // Page breaks
+				"foreground": "#a67f68" // Page breaks
 			}
 		},
 		{
 			"scope": "constant.numeric.scene",
 			"settings": {
-				"foreground": "#bc8358" // Scene numbers
+				"foreground": "#b17b53" // Scene numbers
 			}
 		},
 		{

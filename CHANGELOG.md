@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.24
+
+- Brightness adjustments
+
 ## 1.0.23
 
 - Color tweaks
