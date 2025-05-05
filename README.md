@@ -37,11 +37,13 @@ If you wish to limit the effect of this theme to a specific workspace, you can d
 
 <!--
 
-Dev notes:
+Setup:
   - `npm install -g vsce`
   - `vsce publish`
+
 Inspect textmate tokens:
   - `F1` > `Developer: Inspect Editor Tokens and Scopes`
+
 Extension admin: https://marketplace.visualstudio.com/manage/
 Tokens: https://swift502.visualstudio.com/_usersSettings/tokens
 
