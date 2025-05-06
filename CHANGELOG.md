@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.30
+
+- Icon update
+
 ## 1.0.23 - 1.0.29
 
 - Color and style refinements
