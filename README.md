@@ -14,10 +14,9 @@ Key aims:
 
 ## Additional styling
 
-To get the Full experience™, I recommend switching to the Courier Prime font:
+Here's some optional styling I recommend adding to your `.vscode/settings.json`:
 
-1. Download and install [Courier Prime](https://fonts.google.com/specimen/Courier+Prime)
-2. Add the following line to your `settings.json`:
+1. Changing the font to Courier or Courier Prime:
 
 ```json
 {
@@ -25,9 +24,18 @@ To get the Full experience™, I recommend switching to the Courier Prime font:
 }
 ```
 
+2. Disabling matching word highlighting, since it doesn't serve much purpose in screenwriting, and can be distracting:
+
+```json
+{
+  "editor.occurrencesHighlight": "off",
+  "editor.selectionHighlight": false,
+}
+```
+
 ## Workspace scoping
 
-If you wish to limit the effect of this theme to a specific workspace, you can do so by setting an override in the `settings.json`:
+If you wish to limit the effect of this theme to a specific workspace, you can do so by enabling this override in `settings.json`:
 
 ```json
 {
