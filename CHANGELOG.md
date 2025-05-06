@@ -1,8 +1,8 @@
 # Changelog
 
-## 1.0.23 - 1.0.26
+## 1.0.23 - 1.0.27
 
-- Color refinements
+- Color and style refinements
 
 ## 1.0.22
 
@@ -14,7 +14,7 @@
 
 ## 1.0.6 - 1.0.20
 
-- Color, style and documentation refinements
+- Color and style refinements
 
 ## 1.0.5
 
