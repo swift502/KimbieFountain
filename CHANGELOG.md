@@ -1,16 +1,8 @@
 # Changelog
 
-## 1.0.25
+## 1.0.23 - 1.0.26
 
-- Line highlight color adjusted
-
-## 1.0.24
-
-- Brightness adjustments
-
-## 1.0.23
-
-- Color tweaks
+- Color refinements
 
 ## 1.0.22
 
