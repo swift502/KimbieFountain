@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.23 - 1.0.28
+## 1.0.23 - 1.0.29
 
 - Color and style refinements
 
