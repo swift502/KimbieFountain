@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.31
+
+- Readme
+
 ## 1.0.30
 
 - Icon update
@@ -27,7 +31,7 @@
 
 ## 1.0.4
 
-- Documentation
+- Readme
 
 ## 1.0.3
 
