@@ -16,22 +16,22 @@ Key aims:
 
 Here's some optional styling I recommend adding to your `.vscode/settings.json`:
 
-1. Changing the font to Courier or Courier Prime:
+- Switching the font to the screenplay standard Courier or Courier Prime:
 
-```json
-{
-  "editor.fontFamily": "Courier Prime"
-}
-```
+    ```json
+    {
+      "editor.fontFamily": "Courier Prime"
+    }
+    ```
 
-2. Disabling matching word highlighting, since it doesn't serve much purpose in screenwriting, and can be distracting:
+- Disabling matching word highlighting, since it doesn't serve much purpose in screenwriting, and can be distracting:
 
-```json
-{
-  "editor.occurrencesHighlight": "off",
-  "editor.selectionHighlight": false,
-}
-```
+    ```json
+    {
+      "editor.occurrencesHighlight": "off",
+      "editor.selectionHighlight": false,
+    }
+    ```
 
 ## Workspace scoping
 
