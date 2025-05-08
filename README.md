@@ -27,7 +27,7 @@ I also recommend disabling matching word highlighting, since it doesn't serve mu
 ```json
 {
   "editor.occurrencesHighlight": "off",
-  "editor.selectionHighlight": false,
+  "editor.selectionHighlight": false
 }
 ```
 
