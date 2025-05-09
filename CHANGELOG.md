@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.32
+
+- Disable bracket colorization where possible
+
 ## 1.0.31
 
 - Readme
